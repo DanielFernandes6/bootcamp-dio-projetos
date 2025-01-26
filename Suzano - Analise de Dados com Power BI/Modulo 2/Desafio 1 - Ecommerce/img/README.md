@@ -14,7 +14,7 @@ Neste desafio, o objetivo é **refinar a modelagem** do cenário de e-commerce, 
 
 Diagrama construído na ferramenta MySQL WorkBench
 
-![Desafio 01](./Ecommerce_inicial.png)
+![Desafio 01](./Ecommerce_Inicial.png)
 
 **A modelagem pode ser realizada em diversos aplicações, exemplo:** 
 
